@@ -6,3 +6,5 @@
 
 <웹 채점프로그램>
 http://www.comlicense.co.kr/
+
+김찬중 강사 입니다.
